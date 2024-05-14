@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  },
+  "name": "apitestp2.1",
+  "version": "1.0.0",
+  "description": "\"# APItestp2.1\" \r \"# APItestp2.1\" \r \"# APItestp2.1\" \r \"# APItestp2.1\" \r \"# APItestp2.1\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
